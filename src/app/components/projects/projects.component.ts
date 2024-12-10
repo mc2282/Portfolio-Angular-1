@@ -58,7 +58,7 @@ export class ProjectsComponent {
       "descripcion": "Aplicación desarrollada con HTML5, CSS3, JavaScript y Angular que permite la gestion de tareas y el almacenamiento de las mismas, simulando una base de datos con un servidor json",
       "imagen": "images/proyecto_tareas.webp",
       "linkCode": "https://github.com/mc2282/TareasList",
-      "linkPreview": "https://mc2282.github.io/TareasList"
+      "linkPreview": "tareas-list.vercel.app"
     }
   ]
 
